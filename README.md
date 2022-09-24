@@ -1,6 +1,6 @@
  Hi, I’m Arielle
  I’m interested in Artifical Intellignece & BioTech/Informatics.
- I’m currently learning C++ and Python.
+ I’m currently learning C++ , Javascript, and Python.
 
 
 <!---
