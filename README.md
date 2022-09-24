@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Arietta
-- 👀 I’m interested in Artifical Intellignece & BioTech/Informatics.
-- 🌱 I’m currently learning C++ and Python.
+ Hi, I’m Arielle
+ I’m interested in Artifical Intellignece & BioTech/Informatics.
+ I’m currently learning C++ and Python.
 
 
 <!---
