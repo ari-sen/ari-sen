@@ -1,6 +1,5 @@
- Hi, I’m Arielle
- I’m interested in Artifical Intellignece & BioTech/Informatics.
- I’m currently learning C++ , Javascript, and Python.
+ Hi, I’m Arielle. I'm currently interested in using AI and ML methods to help the health of all and better equal healthcare.
+ Current Languages: Python,Javascript,C++,R
 
 
 <!---
