@@ -32,5 +32,5 @@ I'm a Computer Science student at Hunter College, passionate about computational
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
-[![Email](https://img.shields.io/badge/Email-arielle%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arielle@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielle-s/)
+[![Email](https://img.shields.io/badge/Email-arielle%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arielle219@gmail.com)
