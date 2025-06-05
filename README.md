@@ -20,7 +20,7 @@ I'm a Computer Science student at Hunter College, passionate about computational
 
 **Role:** Frontend & Feature Developer  
 **Tech:** React, Firebase Auth, PostgreSQL, Supabase  
-→ **[View Project on GitHub](https://github.com/anitaprova/Diava)**
+→ **[View Project on GitHub](https://diava.vercel.app/login)**
 
 Diava is a social platform for readers to track books, write reviews, and join community reading goals. It features voting, book lists, and user profiles built on a modern full-stack architecture.
 
