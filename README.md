@@ -6,12 +6,12 @@ I'm a Computer Science student at Hunter College, passionate about computational
 
 ## 🔬 Featured Projects
 
-<div style="display: flex; gap: 40px; flex-wrap: wrap;">
+<div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center;">
 
-  <div style="max-width: 320px; text-align: center;">
+  <div style="flex: 1 1 300px; max-width: 360px; text-align: center;">
     <h3>🧬 MultiQC Report – Whole Genome Sequencing QC</h3>
     <a href="https://ari-sen.github.io/MultiQC-Report/" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="https://raw.githubusercontent.com/ari-sen/MultiQC-Report/main/multiqc-preview.png" alt="MultiQC Report" width="300" style="border-radius:8px;"/>
+      <img src="https://raw.githubusercontent.com/ari-sen/MultiQC-Report/main/multiqc-preview.png" alt="MultiQC Report" width="100%" style="border-radius:8px;"/>
     </a>
     <p><strong>Role:</strong> Cancer Research Computational Biology Intern<br/>
     <strong>Org:</strong> New York Genome Center (Summer 2024)<br/>
@@ -19,10 +19,10 @@ I'm a Computer Science student at Hunter College, passionate about computational
     → <a href="https://ari-sen.github.io/MultiQC-Report/" target="_blank">View Interactive Report</a></p>
   </div>
 
-  <div style="max-width: 320px; text-align: center;">
+  <div style="flex: 1 1 300px; max-width: 360px; text-align: center;">
     <h3>📚 Diava – Social Reading App</h3>
     <a href="https://diava.vercel.app/login" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="https://raw.githubusercontent.com/anitaprova/Diava/master/preview.png" alt="Diava App" width="300" style="border-radius:8px;"/>
+      <img src="https://raw.githubusercontent.com/anitaprova/Diava/master/preview.png" alt="Diava App" width="100%" style="border-radius:8px;"/>
     </a>
     <p><strong>Role:</strong> Frontend & Feature Developer<br/>
     <strong>Tech:</strong> React, Firebase Auth, PostgreSQL, Supabase<br/>
@@ -31,6 +31,7 @@ I'm a Computer Science student at Hunter College, passionate about computational
   </div>
 
 </div>
+
 
 
 ## 🛠 Technologies & Tools
