@@ -1,8 +1,36 @@
- Hi, I’m Arielle. I'm currently interested in using AI and ML methods to help the health of all and better equal healthcare.
- Current Languages: Python,Javascript,C++,R
+# Hi, I'm Arielle 👋
 
+I'm a Computer Science student at Hunter College, passionate about computational biology, data science, and full-stack development. I enjoy building tools that merge science and tech, especially in genomics and healthcare.
 
-<!---
-ari-sen/ari-sen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🔬 Featured Projects
+
+### 🧬 MultiQC Report – Whole Genome Sequencing QC
+[![MultiQC Report](https://raw.githubusercontent.com/ari-sen/MultiQC-Report/main/multiqc-preview.png)](https://ari-sen.github.io/MultiQC-Report/)
+
+**Role:** Cancer Research Computational Biology Intern  
+**Org:** New York Genome Center (Summer 2024)  
+**Tech:** Linux, Bash, MultiQC, SRAToolkit, WGS  
+→ **[View Interactive Report](https://ari-sen.github.io/MultiQC-Report/)**
+
+---
+
+### 📊 SQL Dashboard for NYC Open Data *(Coming Soon)*
+> A PostgreSQL + React dashboard for visualizing NYC DOT datasets, including real-time incident reports and work orders.
+
+---
+
+## 🛠 Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MultiQC](https://img.shields.io/badge/MultiQC-ff69b4?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
+[![Email](https://img.shields.io/badge/Email-arielle%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arielle@example.com)
