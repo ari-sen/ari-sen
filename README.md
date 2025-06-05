@@ -22,7 +22,7 @@ I'm a Computer Science student at Hunter College, passionate about computational
   <div style="max-width: 320px; text-align: center;">
     <h3>📚 Diava – Social Reading App</h3>
     <a href="https://diava.vercel.app/login" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="https://raw.githubusercontent.com/anitaprova/Diava/main/preview.png" alt="Diava App" width="300" style="border-radius:8px;"/>
+      <img src="https://raw.githubusercontent.com/anitaprova/Diava/master/preview.png" alt="Diava App" width="300" style="border-radius:8px;"/>
     </a>
     <p><strong>Role:</strong> Frontend & Feature Developer<br/>
     <strong>Tech:</strong> React, Firebase Auth, PostgreSQL, Supabase<br/>
