@@ -15,7 +15,14 @@ I'm a Computer Science student at Hunter College, passionate about computational
 → **[View Interactive Report](https://ari-sen.github.io/MultiQC-Report/)**
 
 ---
+### 📚 Diava – Social Reading App  
+[![Diava App](https://raw.githubusercontent.com/anitaprova/Diava/main/preview.png)](https://github.com/anitaprova/Diava)
 
+**Role:** Frontend & Feature Developer  
+**Tech:** React, Firebase Auth, PostgreSQL, Supabase  
+→ **[View Project on GitHub](https://github.com/anitaprova/Diava)**
+
+Diava is a social platform for readers to track books, write reviews, and join community reading goals. It features voting, book lists, and user profiles built on a modern full-stack architecture.
 
 ## 🛠 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
