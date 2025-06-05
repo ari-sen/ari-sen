@@ -6,33 +6,30 @@ I'm a Computer Science student at Hunter College, passionate about computational
 
 ## 🔬 Featured Projects
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; flex-wrap: wrap; gap: 2rem;">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🧬 MultiQC Report</h3>
+      <a href="https://ari-sen.github.io/MultiQC-Report/" target="_blank">
+        <img src="https://raw.githubusercontent.com/ari-sen/MultiQC-Report/main/multiqc-preview.png" width="200px" alt="MultiQC Report"/>
+      </a>
+      <p><strong>Role:</strong> Cancer Research Computational Biology Intern<br/>
+      <strong>Org:</strong> New York Genome Center (Summer 2024)<br/>
+      <strong>Tech:</strong> Linux, Bash, MultiQC, SRAToolkit, WGS<br/>
+      → <a href="https://ari-sen.github.io/MultiQC-Report/" target="_blank">View Interactive Report</a></p>
+    </td>
 
-  <!-- Project 1 -->
-  <div style="flex: 1; min-width: 320px; max-width: 500px;">
-    <h3>🧬 MultiQC Report – Whole Genome Sequencing QC</h3>
-    <a href="https://ari-sen.github.io/MultiQC-Report/" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="https://raw.githubusercontent.com/ari-sen/MultiQC-Report/main/multiqc-preview.png" alt="MultiQC Report" style="width: 100%; border-radius: 8px;">
-    </a>
-    <p><strong>Role:</strong> Cancer Research Computational Biology Intern<br/>
-    <strong>Org:</strong> New York Genome Center (Summer 2024)<br/>
-    <strong>Tech:</strong> Linux, Bash, MultiQC, SRAToolkit, WGS<br/>
-    → <a href="https://ari-sen.github.io/MultiQC-Report/" target="_blank">View Interactive Report</a></p>
-  </div>
-
-  <!-- Project 2 -->
-  <div style="flex: 1; min-width: 320px; max-width: 500px;">
-    <h3>📚 Diava – Social Reading App</h3>
-    <a href="https://diava.vercel.app/login" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="https://raw.githubusercontent.com/anitaprova/Diava/master/preview.png" alt="Diava App" style="width: 100%; border-radius: 8px;">
-    </a>
-    <p><strong>Role:</strong> Frontend & Feature Developer<br/>
-    <strong>Tech:</strong> React, Firebase Auth, PostgreSQL, Supabase<br/>
-    → <a href="https://github.com/anitaprova/Diava" target="_blank">View Project on GitHub</a></p>
-    <p>Diava is a social platform for readers to track books, write reviews, and join community reading goals. It features voting, book lists, and user profiles built on a modern full-stack architecture.</p>
-  </div>
-
-</div>
+    <td align="center" width="50%">
+      <h3>📚 Diava – Social Reading App</h3>
+      <a href="https://diava.vercel.app/login" target="_blank">
+        <img src="https://raw.githubusercontent.com/anitaprova/Diava/master/preview.png" width="200px" alt="Diava App"/>
+      </a>
+      <p><strong>Role:</strong> Frontend & Feature Developer<br/>
+      <strong>Tech:</strong> React, Firebase Auth, PostgreSQL, Supabase<br/>
+      → <a href="https://github.com/anitaprova/Diava" target="_blank">View Project on GitHub</a></p>
+    </td>
+  </tr>
+</table>
 
 
 ## 🛠 Technologies & Tools
