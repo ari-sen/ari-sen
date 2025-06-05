@@ -16,10 +16,6 @@ I'm a Computer Science student at Hunter College, passionate about computational
 
 ---
 
-### 📊 SQL Dashboard for NYC Open Data *(Coming Soon)*
-> A PostgreSQL + React dashboard for visualizing NYC DOT datasets, including real-time incident reports and work orders.
-
----
 
 ## 🛠 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
