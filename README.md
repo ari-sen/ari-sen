@@ -1,6 +1,6 @@
 # Hi, I'm Arielle 👋
 
-I'm a Computer Science student at Hunter College, passionate about computational biology, data science, and full-stack development. I enjoy building tools that merge science and tech, especially in genomics and healthcare.
+I'm a Computer Science graduate from Hunter College. I am passionate about computational biology, data science, and full-stack development. I enjoy building tools that merge science, community development, and technology.
 
 ---
 
